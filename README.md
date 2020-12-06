@@ -1,1 +1,1 @@
-# HackTheBox-Academy
+# HackTheBox Academy
